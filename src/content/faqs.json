@@ -2,6 +2,14 @@
   "title": "Frequently Asked Questions",
   "faqs": [
     {
+      "title": "By the way, how much is the Crab?",
+      "content": "Only 0.202 SOL, fresh Crab out of the Crate."
+    },
+    {
+      "title": "How many Crate Crabs will there be?",
+      "content": "Currenlty we have 333 Crate Crabs for you, after that we will add another 5000."
+    },
+    {
       "title": "Can Cargo handle a Crate Crab?",
       "content": "Only on 1.56 and above."
     },
